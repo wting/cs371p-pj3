@@ -2,7 +2,7 @@
 
 = Introduction =
 
-William Ting's and Jackie Tsay's implementation of the Australian Voting problem.
+HanPing Ting's and Jackie Tsay's implementation of the Australian Voting problem.
 
 = Details =
 
