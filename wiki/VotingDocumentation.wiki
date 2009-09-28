@@ -14,7 +14,7 @@ We use the following algorithm for each case where n is the input and v1-v4 are 
 
 2. For each ballot, add the ballot to the candidate that is listed as the first choice.
 
-3. Check if there is a decisive winner (a candidate with more than 50% of the votes.
+3. Check if there is a decisive winner (a candidate with more than 50% of the votes).
 
 4. Eliminate all candidates with the least number of votes and reassign the eliminated candidates' ballots to the next candidate listed on the ballot who is still in the running.
 
